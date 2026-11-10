@@ -45,7 +45,7 @@ The purpose of this project is to clean raw sales data, perform revenue analysis
 4. Run all cells in order.
 
 ## GitHub Repository
-Add your GitHub repository link here.
+[Add your GitHub repository link here.](https://github.com/ZeenatFatima811/Sunday-Project)
 
 ## Author
 Student Name: Zeenat Fatima
